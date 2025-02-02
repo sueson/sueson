@@ -18,6 +18,7 @@
   <img src="https://img.icons8.com/?size=96&id=24895&format=png" style="height: 60px"/>
   <img src="https://img.icons8.com/?size=96&id=hmieDPifBlBM&format=png" style="height: 60px"/>
   <img src="https://img.icons8.com/?size=96&id=22813&format=png" style="height: 60px"/>
+  <img src="https://img.icons8.com/?size=96&id=grZaE9tjqDyr&format=png" style="height: 60px"/>
 </p>
   
 
