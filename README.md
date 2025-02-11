@@ -23,7 +23,7 @@
   
 
 - ## 🌱 My Passion for Coding
-I’m passionate about creating **dynamic and interactive web applications** using **JavaScript**, as well as developing powerful backend solutions with **Node.js** and **Python**. The process of writing clean, efficient code that solves real-world problems is what excites me. I’m continuously learning new techniques and technologies to keep improving and tackling new challenges.
+I’m passionate about creating **dynamic and interactive web applications** using **JavaScript**/**TypeScript**, as well as developing powerful backend solutions with **Node.js** and **Python**. The process of writing clean, efficient code that solves real-world problems is what excites me. I’m continuously learning new techniques and technologies to keep improving and tackling new challenges.
 
 -## 📫 Let’s Connect!
 I’m actively looking for opportunities to apply my skills and grow as a software developer. If you’re interested in collaborating, discussing projects, or just talking tech, feel free to reach out!
