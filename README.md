@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sueson Iruthaya Dhasan
+- 👋 Hi, I’m Sueson
 - A aspiring Software Developer with a strong passion for building software that solves real-world problems. While I may not have professional experience yet, I’ve dedicated myself to improving my skills through personal projects as well continuous learning.
   
 - ##💻 Technical Skills:
