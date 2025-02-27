@@ -1,5 +1,5 @@
 - 👋 Hello world, I’m Sueson
-- A aspiring Software Engineer with a strong passion for building software that solves real-world problems. While I may not have professional experience yet, I’ve dedicated myself to improving my skills through personal projects as well continuous learning.
+- A aspiring Software Engineer with a strong passion for building software that solves real-world problems. I’ve dedicated myself to improving my skills through personal projects as well continuous learning.
   
 - ##💻 Technical Skills:
  <p>
